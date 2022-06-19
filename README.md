@@ -12,7 +12,11 @@ teste não paramétrico ANOVA.
 
 No final, ainda utilizaremos regressão linear para validar a resposta obtida. 
 
-Español:
+Além disso, responderemos a seguinte pergunta: 
+O Que Fazer Quando a Suposição do Teste Estatístico Não é Satisfeita?
+
+
+ESPAÑOL:
 Para este estudio, utilizaremos el conjunto de datos "ToothGrowth" que está disponible en el paquete de conjunto de datos R cargado cuando iniciamos RStudio.
 
 Este conjunto de datos contiene un conjunto de registros con información sobre la longitud de los dientes de las cobayas. Los investigadores administraron 
@@ -24,3 +28,6 @@ El problema se analizará con una prueba estadística paramétrica (Prueba t) ju
 Y también con la prueba ANOVA no paramétrica.
 
 Al final, seguiremos usando la regresión lineal para validar la respuesta obtenida.
+
+Además, responderemos a la siguiente pregunta:
+¿Qué hacer cuando no se cumple el supuesto de prueba estadística?
