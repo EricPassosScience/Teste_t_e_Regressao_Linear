@@ -1,4 +1,4 @@
-# Teste_estat-stico1
+# Teste_estatistico1
 
 Para esse estudo, utilizaremos o dataset “ToothGrowth” que está disponível no pacote de datasets em R carregado quando iniciamos o RStudio. 
 
