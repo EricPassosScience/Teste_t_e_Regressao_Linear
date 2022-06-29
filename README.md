@@ -1,4 +1,4 @@
-# Teste_estatistico1
+# Teste_t e Regressão Linear
 
 Para esse estudo, utilizaremos o dataset “ToothGrowth” que está disponível no pacote de datasets em R carregado quando iniciamos o RStudio. 
 
